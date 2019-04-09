@@ -23,6 +23,6 @@ for realization_index = 1:10
   legend('p=1/4', 'p=1/2', 'p=3/4');
   xlabel('t')
   ylabel('S(t) Binommial Count')
-  title('Problem 9.118a');
+  title('Problem 9.118, letter a');
   pause(1);
 end
